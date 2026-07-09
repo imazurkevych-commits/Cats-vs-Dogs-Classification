@@ -1,5 +1,10 @@
 # 🐱🐶 Cats vs Dogs Image Classification using MobileNetV2 Transfer Learning
 
+## 🎥 Project Demo
+
+Video presentation:
+https://drive.google.com/file/d/1k-xdbyHO46w_EWcngs6qEXFV7M2Sn0Xb/view?usp=sharing
+
 ## 📌 Project Overview
 
 This project demonstrates a complete deep learning workflow for binary image classification using transfer learning.
